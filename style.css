@@ -1,0 +1,11 @@
+.centre {
+  background-color: lightgrey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#header {
+  height: 100px;
+  width: auto;
+  margin: 10px;
+}
